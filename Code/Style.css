@@ -1,0 +1,17 @@
+img{
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+}
+
+.pokemon_gen_one{
+    position: relative;
+    display: inline;
+    float: left;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    margin: 3px 7px 3px 7px;
+    text-align: center;
+    font-family: inherit;
+}
