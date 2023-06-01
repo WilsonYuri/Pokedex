@@ -11,6 +11,7 @@ header{
 body{
     background-color: papayawhip;
 }
+
 .pokemon_gen_one{
     position: relative;
     display: inline;
@@ -53,7 +54,7 @@ body{
 }
 
 .flying{
-    background-color:#bdb9b8;
+    background-color:#839abd;
     padding: 1px 20px 1px 20px;
     margin-right: 1px;
     border-radius: 2px;
