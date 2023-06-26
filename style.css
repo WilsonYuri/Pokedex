@@ -100,6 +100,11 @@ body{
     background-color:#ff53b7;
 }
 
+.rock{
+    background-color:#a38c21 ;
+    color: #ffffff;
+}
+
 .pokemon_gen_one span{
     position: relative;
     margin: 0px 10px 3px 10px;
