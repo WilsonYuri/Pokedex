@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 .pic{
     width: 200px;
     height: 200px;
@@ -6,7 +8,7 @@
 }
 
 body{
-    font-family: Tahoma, Georgia;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 h1{
@@ -19,6 +21,11 @@ h1{
     font-style: none;
     text-decoration: none;
     color: black;
+}
+
+#home{
+    border: 10px;
+    border-color: black;
 }
 
 #profile{
